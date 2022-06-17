@@ -1,18 +1,12 @@
-node_modules/
-dist/
-*build/
-_gh_pages/
-static/images/.DS_Store
-static/*.js
-static/*.css
-static/*.map
-.DS_Store
-classNames.json
-app.bundle.js.LICENSE.txt
-temp
-package-lock.json
-yarn.lock
-yarn-error.log
-release
-.release
-.DS_Store
+# IDE Files
+#-------------------------
+/nbproject/
+.idea/*
+
+## Sublime Text cache files
+*.tmlanguage.cache
+*.tmPreferences.cache
+*.stTheme.cache
+*.sublime-workspace
+*.sublime-project
+
